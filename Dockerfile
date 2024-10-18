@@ -10,4 +10,4 @@ WORKDIR /app
 COPY . .
 
 # run command for app
-CMD [ "node" , "index.js" ]
+CMD [ "node" , "start" ]
