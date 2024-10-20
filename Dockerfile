@@ -16,4 +16,4 @@ RUN npm install
 COPY . .
 
 # run command for app
-CMD [ "node" , "start" ]
+CMD [ "npm" , "start" ]
